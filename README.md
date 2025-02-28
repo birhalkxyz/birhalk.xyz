@@ -8,3 +8,6 @@ Birleşik Halk Dergisi Tam Bağımsız Türkiye ve Atatürk ilkeleri etrafında 
 
 Belgelerimizin lisansı [CC BY-ND 4.0 or later](by-nd.markdown)
 
+# Birleşik Halk Logo Lisansı
+
+Logomuz Kamu Malı yani Public Domain'dir.
