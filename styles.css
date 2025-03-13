@@ -1,41 +1,28 @@
- body {
+/* CSS to center paragraph and footer */
+body {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 100vh; /* Full viewport height */
     margin: 0;
-    background-color: black;
+    font-family: Arial, sans-serif; /* Optional font styling */
+  }
+  
+p {
+    text-align: center;
+    margin: 10px;
 }
-
-.column {
-    width: 100px;
-    height: 100%;
-    display: inline-block;
-    font-family: monospace;
-    font-size: 16px;
-    color: white;
-    position: relative;
-    top: -50px;
-    margin: 0 50px; /* Add horizontal margin of 50px on each side */
-}
-
-.column:hover {
-    color: red;
-    cursor: pointer; /* Change cursor to hand symbol */
-}
-
-.column a:hover {
-    color: red;
-    cursor: pointer; /* Change cursor to hand symbol */
+  
+img {
+  display: block;
+  margin: 0 auto;
+  padding: 100px;
 }
 
 footer {
-    width: 100%;
-    padding: 20px;
     text-align: center;
-    background-color: red;
-    color: white;
-    position: absolute;
-    bottom: 0;
-    left: 0;
+    margin-top: auto;
+    margin-bottom: 20px;
 }
+
