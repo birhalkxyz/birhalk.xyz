@@ -131,15 +131,23 @@ Bu yazı yazarı Mert Gör'dür yazı değiştirilmediği sürece kopyalanıp ye
 Yazı Teori dergisine .pdf .txt .odt .docx formatlarında sunulmuştur.
 
 1. Yazım tarihi 18 Temmuz 2024 Perşembe Saat 19:00 Türkiye İstanbul
+
 2. Güncelleme 22 Temmuz 2024 Pazartesi saat 21:00 Türkiye İstanbul, Crowdstrike ve Yapay zeka konusu eklenmiştir. 
 
 Kaynaklar veya bakılması gereken yerler
 
 Free Software Foundation (https://fsf.org)
+
 GNU web sitesi (https://gnu.org)
+
 Linux Foundation (https://linuxfoundation.org)
+
 Open Source Initiative (https://opensource.org/)
+
 Ghidra (https://ghidra-sre.org/)
+
 Wikipedia (https://en.wikipedia.org/wiki/Main_Page ve https://tr.wikipedia.org/wiki/Anasayfa)
+
 T24 (https://t24.com.tr/haber/adobe-abd-hukumetinin-karari-nedeniyle-venezuela-daki-tum-kullanici-hesaplarini-kapatti,843236)
+
 Lisans metni : https://creativecommons.org/licenses/by-nd/4.0/deed.tr
