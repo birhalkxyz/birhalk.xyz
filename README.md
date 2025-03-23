@@ -6,4 +6,4 @@ Birleşik Halk Dergisi Tam Bağımsız Türkiye ve Atatürk ilkeleri etrafında 
 
 ## Lisans
 
-Belgelerimizin lisansı [CC BY-ND 4.0 or later](by-nd.markdown)
+Belgelerimizin lisansı [CC BY-SA 4.0 or later](by-sa.markdown)
