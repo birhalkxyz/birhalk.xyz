@@ -26,7 +26,7 @@ Buraya kadar yazdıklarım iletişim, eleştiri ve özeleştiri, çeşitli mesle
 
 Yenilikler ancak bir eleştiri süzgecinden ve farklı bakış açısından geçerek gelmektedir. Özgürlük bakımından Özgür Yazılım ise lisans avantajı ve toplulukların kontrolüne dayanması sayesinde bu yenilikleri tetiklemektedir. Bu yazı kısaca bu konulara bir başlangıç yapmıştır. İleride iş modeli başlığı altında daha detaylı inceleyeceğim bir konu gibi duruyor. Belki de kitaplaştırırım. Ne demişler adım adım ! Yürümek ve sonra koşmak...
 
-Bu yazı [CC BY-SA 4.0 or later](../by-sa.markdown) ile korunmaktadır.
+Bu yazı CC BY-SA 4.0 veya sonrası bir lisans ile korunmaktadır.
 
 Mert Gör
 
