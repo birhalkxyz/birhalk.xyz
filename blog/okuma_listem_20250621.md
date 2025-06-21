@@ -1,10 +1,10 @@
 # Haziran - Temmuz kitap okuma listem
 
-1. https://www.bkmkitap.com/islam-deklarasyonu-ve-tarihi-savunma?waw_keyword=islam%20deklaras&_gl=1*11d1wbs*_gcl_aw*R0NMLjE3NTAyMTYxNzAuQ2p3S0NBandwTVRDQmhBLUVpd0FfLU1zbWZUMTl0RG5wbzFKSUpJS0dXVXIwZnhNcktzRUl2enl6SXBFOWVDTDU1eTh4SkFEWFdETmFCb0NBNmNRQXZEX0J3RQ..*_gcl_au*NDYxMTU5NTYuMTc0OTUyOTAwOC42Njk2OTA3NzUuMTc1MDQ0NzE0MC4xNzUwNDQ3MTgx
+1. İslam Deklarasyonu ve Tarihi Savunma - Aliya İzzetbegoviç - Ketebe Yayınları
 
-2. https://www.bkmkitap.com/hangi-sol?waw_keyword=hangi%20sol&_gl=1*11d1wbs*_gcl_aw*R0NMLjE3NTAyMTYxNzAuQ2p3S0NBandwTVRDQmhBLUVpd0FfLU1zbWZUMTl0RG5wbzFKSUpJS0dXVXIwZnhNcktzRUl2enl6SXBFOWVDTDU1eTh4SkFEWFdETmFCb0NBNmNRQXZEX0J3RQ..*_gcl_au*NDYxMTU5NTYuMTc0OTUyOTAwOC42Njk2OTA3NzUuMTc1MDQ0NzE0MC4xNzUwNDQ3MTgx
+2. HANGİ SOL - Attila İlhan - İş Bankası Kültür Yayınları - 
 
-3. https://www.bkmkitap.com/yazarlik-atolyesi-yaratici-yazarlik-ve-yazma-becerileri-dersi?waw_keyword=s%C3%BCleyman%20karada%C4%9F&_gl=1*1c03vr6*_gcl_aw*R0NMLjE3NTAyMTYxNzAuQ2p3S0NBandwTVRDQmhBLUVpd0FfLU1zbWZUMTl0RG5wbzFKSUpJS0dXVXIwZnhNcktzRUl2enl6SXBFOWVDTDU1eTh4SkFEWFdETmFCb0NBNmNRQXZEX0J3RQ..*_gcl_au*NDYxMTU5NTYuMTc0OTUyOTAwOC43NjY0OTE3NjcuMTc1MDQ5NDM1Mi4xNzUwNDk0MzUx
+3.  Yazarlık Atölyesi , Yaratıcı Yazarlık ve Yazma Becerileri Dersi - Süleyman Karadağ - Bilge Kültür Sanat
 
 Bu kitapları okuma listeme kattım. 
 
