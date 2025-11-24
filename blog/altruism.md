@@ -1,6 +1,4 @@
-# Altruizm Copilot notlarım
-
-## altruism nedir
+altruism nedir
 
 Altruizm, başkalarının iyiliğini kendi çıkarlarından önde tutan davranışları tanımlamak için kullanılan bir kavramdır. Bir kişi, doğrudan kendi yararına olmayan, hatta bazen kişisel fedakârlık içeren bir şekilde başkalarına yardım ettiğinde altruistik davranış sergilemiş olur. Kökü Latince *“alteri”* yani “başkası” kelimesine dayanır.
 
