@@ -6,7 +6,7 @@ Merhaba,
 
 Esas konumuza gelirsek. Bu yazıyı yazmamdaki amaç şu : Özgür Yazılım ve Açık Kaynak bizi bilginin özgür olması dolayısıyla üretim yapmamızı ve dolayısıyla ticarete atılmamızı kolaylaştırmaktadır. Bir şekilde tekelleşen piyasada bir kireç çözücü görevi görmektedir. Bir yazılımın nasıl fiyatlandırıldığını gelin birlikte ele alalım.
 
-# Nominal Ücret olarak bedava indirilen yazılım
+# Bedava indirilen yazılım
 
 Bir Özgür Yazılım ve Açık Kaynak yazılım çoğunlukla ücretsiz olarak dağıtılır. Para kazanma modeli ise teknik destekten yani hizmetten olur. Bu emek yoğun bir modeldir. Bu sebeple de Microsoft şirketi bu akıma zamanında Komünizm demiştir. Evet emek yoğun olduğu için öyle görünebilir. Ancak burada Open Source yani Açık Kaynak iş modeline göre bakarsak bir pazarlama stratejisi izlenmektedir. Yazılım indirilirken , eğer bir destek paketi alınmıyorsa kendi iç şirketimizdeki kadromuzu beslerken ve donanımlarımızı tedarik ederken hep masrafa girmekteyiz. Bunu göz ardı ettiğimizde ücretsiz yazılım diyebiliriz ancak yazılım aslında hiç bir zaman ücretsiz değildir. Öyle bir dünya henüz yok...
 
