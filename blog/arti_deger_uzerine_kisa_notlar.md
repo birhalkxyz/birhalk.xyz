@@ -26,7 +26,7 @@ Bilgi paylaştıkça çoğalır. Ve isteyen kendi etki alanında kendi kâr stra
 
 # Demokrasi için Özgür Yazılım
 
-Demokrasi demek sadece oy vermek demek değildir. Fransız Devrimi öncesi ve sonrasında tüm düşüncelere baktığımızda demokrasinin şu an güncel tavrı bilgiye erişim, ifade özgürlüğü, mülkiyette aşırıya kaçmaama gibi özellikler taşıdığını anlatmak gerekir. İslam dininin özelinde de bu aynıdır. Belki de tüm dinlerde ve inançlarda. Bu yazının ana ekseninde belirtildiği gibi Özgür Yazılım insanların iş yapmasına olanak verdiği içindir ki aslında demokrasinin en saf halidir. İdeal bir dünya tasvirinden çok fikri anlatmaya çalıştım.
+Demokrasi demek sadece oy vermek demek değildir. Fransız Devrimi öncesi ve sonrasında tüm düşüncelere baktığımızda demokrasinin şu an güncel tavrı bilgiye erişim, ifade özgürlüğü, mülkiyette aşırıya kaçmama gibi özellikler taşıdığını anlatmak gerekir. İslam dininin özelinde de bu aynıdır. Belki de tüm dinlerde ve inançlarda. Bu yazının ana ekseninde belirtildiği gibi Özgür Yazılım insanların iş yapmasına olanak verdiği içindir ki aslında demokrasinin en saf halidir. İdeal bir dünya tasvirinden çok fikri anlatmaya çalıştım.
 
 Teşekkürler
 İyi Çalışmalar
