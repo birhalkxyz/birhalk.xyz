@@ -22,7 +22,7 @@ Bilgi paylaştıkça çoğalır. Ve isteyen kendi etki alanında kendi kâr stra
 
 # Siyasi ve toplumsal perspektif
 
-Şu an içinde bulunduğumuz dünya bir çeşit tekelci kapitalist bir dünyadır. Bunu Leninist bir söylemde ele almıyorum. Zira Lenin'den sorna köprünün altından çok sular aktı. Ayrıca Lenin Devlet Kapitalizmi ile başladı ve onun bürokratik sistemi Stalin tarafından sürdürüldü. Sonrasında iktidardaki elit sınıf ise yeni nesil bir kapitalizm üretti ve Sovyetler Birliği veya Sovyet Rusya etnik eşitsizlikler, gelir eşitsizlikleri ve kalkınmada yenilik demokraside ifade özgürlüğü gibi sorunlar sebebiyle çözüldü.
+Şu an içinde bulunduğumuz dünya bir çeşit tekelci kapitalist bir dünyadır. Bunu Leninist bir söylemde ele almıyorum. Zira Lenin'den sonra köprünün altından çok sular aktı. Ayrıca Lenin Devlet Kapitalizmi ile başladı ve onun bürokratik sistemi Stalin tarafından sürdürüldü. Sonrasında iktidardaki elit sınıf ise yeni nesil bir kapitalizm üretti ve Sovyetler Birliği veya Sovyet Rusya etnik eşitsizlikler, gelir eşitsizlikleri ve kalkınmada yenilik demokraside ifade özgürlüğü gibi sorunlar sebebiyle çözüldü.
 
 # Demokrasi için Özgür Yazılım
 
