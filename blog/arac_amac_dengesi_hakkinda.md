@@ -4,7 +4,7 @@ FSF yani Free Software Foundation (ABD'deki Özgür Yazılım Vakfı) hakkında 
 
 Bu düşünceye katılmak veya katılmamak bir yana dursun, önemli olan bana bu eleştirinin neyi hatırlattığı...
 
-Hayatta aldığımız her kararda ve hayatın akışı ve gelgitleri içerisinde araç ve geçici veya kalıcı aamaçların neler olması gerektiği hakkında düşünmeye başladım.
+Hayatta aldığımız her kararda ve hayatın akışı ve gelgitleri içerisinde araç ve geçici veya kalıcı amaçların neler olması gerektiği hakkında düşünmeye başladım.
 
 Amaç insanların yazılım üzerinde kontrolü ise örneğin Özgür Yazılım şart. Ama sadece bu olmamalı. Sanki kalem bir araç defter bir araç ve mülkiyet üzerinde kontrol bir araç ama amaç nihai olarak özgürce yaşamak olmalı. 
 
